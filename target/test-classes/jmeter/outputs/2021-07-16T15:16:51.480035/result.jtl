@@ -1,0 +1,81 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1626445012605,844,HTTP Request,200,OK,Thread Group 1-3,text,true,,343214,337,10,10,https://www.bbc.co.uk/,151,0,122
+1626445012605,151,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,,true,,722,111,10,10,http://bbc.co.uk/,151,0,122
+1626445012760,359,HTTP Request-1,301,Moved Permanently,Thread Group 1-3,,true,,771,111,10,10,https://bbc.co.uk/,359,0,346
+1626445013120,329,HTTP Request-2,200,OK,Thread Group 1-3,text,true,,341721,115,10,10,https://www.bbc.co.uk/,149,0,134
+1626445012989,474,HTTP Request,200,OK,Thread Group 1-7,text,true,,343214,337,10,10,https://www.bbc.co.uk/,28,0,12
+1626445012989,28,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,,true,,722,111,10,10,http://bbc.co.uk/,28,0,12
+1626445013018,101,HTTP Request-1,301,Moved Permanently,Thread Group 1-7,,true,,771,111,10,10,https://bbc.co.uk/,101,0,88
+1626445013120,343,HTTP Request-2,200,OK,Thread Group 1-7,text,true,,341721,115,10,10,https://www.bbc.co.uk/,129,0,112
+1626445012791,679,HTTP Request,200,OK,Thread Group 1-5,text,true,,343214,337,10,10,https://www.bbc.co.uk/,24,0,12
+1626445012791,24,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,,true,,722,111,10,10,http://bbc.co.uk/,24,0,12
+1626445012816,303,HTTP Request-1,301,Moved Permanently,Thread Group 1-5,,true,,771,111,10,10,https://bbc.co.uk/,303,0,290
+1626445013120,350,HTTP Request-2,200,OK,Thread Group 1-5,text,true,,341721,115,10,10,https://www.bbc.co.uk/,147,0,131
+1626445012581,940,HTTP Request,200,OK,Thread Group 1-2,text,true,,343214,337,10,10,https://www.bbc.co.uk/,175,0,145
+1626445012581,175,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,,true,,722,111,10,10,http://bbc.co.uk/,175,0,145
+1626445012760,368,HTTP Request-1,301,Moved Permanently,Thread Group 1-2,,true,,771,111,10,10,https://bbc.co.uk/,368,0,346
+1626445013129,392,HTTP Request-2,200,OK,Thread Group 1-2,text,true,,341721,115,10,10,https://www.bbc.co.uk/,128,0,115
+1626445013089,444,HTTP Request,200,OK,Thread Group 1-8,text,true,,343214,337,10,10,https://www.bbc.co.uk/,28,0,15
+1626445013089,28,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,,true,,722,111,10,10,http://bbc.co.uk/,28,0,15
+1626445013118,70,HTTP Request-1,301,Moved Permanently,Thread Group 1-8,,true,,771,111,10,10,https://bbc.co.uk/,70,0,59
+1626445013189,344,HTTP Request-2,200,OK,Thread Group 1-8,text,true,,341721,115,10,10,https://www.bbc.co.uk/,84,0,66
+1626445012581,969,HTTP Request,200,OK,Thread Group 1-1,text,true,,343214,337,10,10,https://www.bbc.co.uk/,175,0,146
+1626445012581,175,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,,true,,722,111,10,10,http://bbc.co.uk/,175,0,146
+1626445012760,360,HTTP Request-1,301,Moved Permanently,Thread Group 1-1,,true,,771,111,10,10,https://bbc.co.uk/,360,0,346
+1626445013121,429,HTTP Request-2,200,OK,Thread Group 1-1,text,true,,341721,115,10,10,https://www.bbc.co.uk/,141,0,124
+1626445012688,879,HTTP Request,200,OK,Thread Group 1-4,text,true,,343214,337,10,10,https://www.bbc.co.uk/,68,0,41
+1626445012688,68,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,,true,,722,111,10,10,http://bbc.co.uk/,68,0,41
+1626445012760,360,HTTP Request-1,301,Moved Permanently,Thread Group 1-4,,true,,771,111,10,10,https://bbc.co.uk/,360,0,346
+1626445013121,446,HTTP Request-2,200,OK,Thread Group 1-4,text,true,,341721,115,10,10,https://www.bbc.co.uk/,142,0,128
+1626445013287,311,HTTP Request,200,OK,Thread Group 1-10,text,true,,343214,337,10,10,https://www.bbc.co.uk/,51,0,25
+1626445013287,51,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,,true,,722,111,10,10,http://bbc.co.uk/,51,0,25
+1626445013339,110,HTTP Request-1,301,Moved Permanently,Thread Group 1-10,,true,,771,111,10,10,https://bbc.co.uk/,110,0,88
+1626445013450,148,HTTP Request-2,200,OK,Thread Group 1-10,text,true,,341721,115,10,10,https://www.bbc.co.uk/,81,0,64
+1626445012892,859,HTTP Request,200,OK,Thread Group 1-6,text,true,,343214,337,10,10,https://www.bbc.co.uk/,23,0,11
+1626445012892,23,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,,true,,722,111,10,10,http://bbc.co.uk/,23,0,11
+1626445012916,203,HTTP Request-1,301,Moved Permanently,Thread Group 1-6,,true,,771,111,10,10,https://bbc.co.uk/,203,0,190
+1626445013120,631,HTTP Request-2,200,OK,Thread Group 1-6,text,true,,341721,115,10,10,https://www.bbc.co.uk/,155,0,135
+1626445013187,593,HTTP Request,200,OK,Thread Group 1-9,text,true,,343214,337,10,10,https://www.bbc.co.uk/,23,0,11
+1626445013187,23,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,,true,,722,111,10,10,http://bbc.co.uk/,23,0,11
+1626445013211,81,HTTP Request-1,301,Moved Permanently,Thread Group 1-9,,true,,771,111,10,10,https://bbc.co.uk/,81,0,58
+1626445013293,487,HTTP Request-2,200,OK,Thread Group 1-9,text,true,,341721,115,10,10,https://www.bbc.co.uk/,207,0,191
+1626445013955,198,HTTP Request,200,OK,Thread Group 1-3,text,true,,343214,337,10,10,https://www.bbc.co.uk/,23,0,12
+1626445013955,23,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,,true,,722,111,10,10,http://bbc.co.uk/,23,0,12
+1626445013979,54,HTTP Request-1,301,Moved Permanently,Thread Group 1-3,,true,,771,111,10,10,https://bbc.co.uk/,54,0,42
+1626445014033,120,HTTP Request-2,200,OK,Thread Group 1-3,text,true,,341721,115,10,10,https://www.bbc.co.uk/,13,0,0
+1626445013968,227,HTTP Request,200,OK,Thread Group 1-7,text,true,,343214,337,9,9,https://www.bbc.co.uk/,24,0,11
+1626445013968,24,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,,true,,722,111,9,9,http://bbc.co.uk/,24,0,11
+1626445013992,60,HTTP Request-1,301,Moved Permanently,Thread Group 1-7,,true,,771,111,9,9,https://bbc.co.uk/,60,0,47
+1626445014052,143,HTTP Request-2,200,OK,Thread Group 1-7,text,true,,341721,115,9,9,https://www.bbc.co.uk/,16,0,0
+1626445013971,335,HTTP Request,200,OK,Thread Group 1-5,text,true,,343214,337,8,8,https://www.bbc.co.uk/,23,0,12
+1626445013971,23,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,,true,,722,111,8,8,http://bbc.co.uk/,23,0,12
+1626445013994,59,HTTP Request-1,301,Moved Permanently,Thread Group 1-5,,true,,771,111,8,8,https://bbc.co.uk/,59,0,45
+1626445014053,253,HTTP Request-2,200,OK,Thread Group 1-5,text,true,,341721,115,8,8,https://www.bbc.co.uk/,110,0,0
+1626445014051,342,HTTP Request,200,OK,Thread Group 1-1,text,true,,343214,337,7,7,https://www.bbc.co.uk/,30,0,15
+1626445014051,30,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,,true,,722,111,7,7,http://bbc.co.uk/,30,0,15
+1626445014081,81,HTTP Request-1,301,Moved Permanently,Thread Group 1-1,,true,,771,111,7,7,https://bbc.co.uk/,81,0,50
+1626445014162,231,HTTP Request-2,200,OK,Thread Group 1-1,text,true,,341721,115,7,7,https://www.bbc.co.uk/,23,0,0
+1626445014022,403,HTTP Request,200,OK,Thread Group 1-2,text,true,,343214,337,6,6,https://www.bbc.co.uk/,24,0,12
+1626445014022,24,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,,true,,722,111,6,6,http://bbc.co.uk/,24,0,12
+1626445014046,60,HTTP Request-1,301,Moved Permanently,Thread Group 1-2,,true,,771,111,6,6,https://bbc.co.uk/,60,0,45
+1626445014106,319,HTTP Request-2,200,OK,Thread Group 1-2,text,true,,341721,115,6,6,https://www.bbc.co.uk/,22,0,0
+1626445014069,364,HTTP Request,200,OK,Thread Group 1-4,text,true,,343214,337,5,5,https://www.bbc.co.uk/,32,0,16
+1626445014069,32,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,,true,,722,111,5,5,http://bbc.co.uk/,32,0,16
+1626445014101,94,HTTP Request-1,301,Moved Permanently,Thread Group 1-4,,true,,771,111,5,5,https://bbc.co.uk/,94,0,73
+1626445014195,238,HTTP Request-2,200,OK,Thread Group 1-4,text,true,,341721,115,5,5,https://www.bbc.co.uk/,18,0,0
+1626445014034,400,HTTP Request,200,OK,Thread Group 1-8,text,true,,343214,337,4,4,https://www.bbc.co.uk/,32,0,16
+1626445014034,32,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,,true,,722,111,4,4,http://bbc.co.uk/,32,0,16
+1626445014066,69,HTTP Request-1,301,Moved Permanently,Thread Group 1-8,,true,,771,111,4,4,https://bbc.co.uk/,69,0,55
+1626445014135,299,HTTP Request-2,200,OK,Thread Group 1-8,text,true,,341721,115,4,4,https://www.bbc.co.uk/,32,0,0
+1626445014252,253,HTTP Request,200,OK,Thread Group 1-6,text,true,,343214,337,3,3,https://www.bbc.co.uk/,41,0,21
+1626445014252,41,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,,true,,722,111,3,3,http://bbc.co.uk/,41,0,21
+1626445014293,70,HTTP Request-1,301,Moved Permanently,Thread Group 1-6,,true,,771,111,3,3,https://bbc.co.uk/,70,0,56
+1626445014363,142,HTTP Request-2,200,OK,Thread Group 1-6,text,true,,341721,115,3,3,https://www.bbc.co.uk/,21,0,0
+1626445014284,281,HTTP Request,200,OK,Thread Group 1-9,text,true,,343214,337,2,2,https://www.bbc.co.uk/,41,0,19
+1626445014284,41,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,,true,,722,111,2,2,http://bbc.co.uk/,41,0,19
+1626445014325,69,HTTP Request-1,301,Moved Permanently,Thread Group 1-9,,true,,771,111,2,2,https://bbc.co.uk/,69,0,51
+1626445014394,171,HTTP Request-2,200,OK,Thread Group 1-9,text,true,,341721,115,2,2,https://www.bbc.co.uk/,18,0,0
+1626445014102,474,HTTP Request,200,OK,Thread Group 1-10,text,true,,343214,337,1,1,https://www.bbc.co.uk/,32,0,16
+1626445014102,32,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,,true,,722,111,1,1,http://bbc.co.uk/,32,0,16
+1626445014134,94,HTTP Request-1,301,Moved Permanently,Thread Group 1-10,,true,,771,111,1,1,https://bbc.co.uk/,94,0,77
+1626445014228,348,HTTP Request-2,200,OK,Thread Group 1-10,text,true,,341721,115,1,1,https://www.bbc.co.uk/,18,0,0

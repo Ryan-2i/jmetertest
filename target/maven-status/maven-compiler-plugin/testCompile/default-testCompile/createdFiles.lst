@@ -1,0 +1,8 @@
+API/stepdefinitions/APISteps.class
+jmeter/stepdefinitions/JmeterSteps.class
+API/requests/ApiBasePage.class
+UI/stepdefinitions/UISteps.class
+UI/pages/BasePage.class
+API/requests/JsonParsing.class
+CucumberTestSuite.class
+UI/pages/DuckDuckGoPage.class
